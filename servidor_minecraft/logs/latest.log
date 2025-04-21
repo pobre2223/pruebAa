@@ -90,3 +90,12 @@
 [21Apr2025 22:00:01.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GAEL234567 moved too quickly! 15.148452758789062,6.963399122357373,-3.229151003062725
 [21Apr2025 22:00:29.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAEL234567 has made the advancement [Stone Age]
 [21Apr2025 22:02:20.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Summoned new Giant]
+[21Apr2025 22:03:16.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Summoned new Giant]
+[21Apr2025 22:03:26.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAEL234567 has made the advancement [Take Aim]
+[21Apr2025 22:04:16.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAEL234567 has made the advancement [Smells Interesting]
+[21Apr2025 22:05:40.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Set own game mode to Spectator Mode]
+[21Apr2025 22:05:49.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 357 block(s)]
+[21Apr2025 22:06:06.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 98 block(s)]
+[21Apr2025 22:06:09.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 96 block(s)]
+[21Apr2025 22:06:12.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 97 block(s)]
+[21Apr2025 22:06:17.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Set own game mode to Creative Mode]
