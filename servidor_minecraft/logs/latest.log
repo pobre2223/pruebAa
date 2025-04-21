@@ -99,3 +99,13 @@
 [21Apr2025 22:06:09.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 96 block(s)]
 [21Apr2025 22:06:12.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 97 block(s)]
 [21Apr2025 22:06:17.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Set own game mode to Creative Mode]
+[21Apr2025 22:13:36.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Set own game mode to Spectator Mode]
+[21Apr2025 22:13:49.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GAEL234567 lost connection: Disconnected
+[21Apr2025 22:13:49.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAEL234567 left the game
+[21Apr2025 22:13:58.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 22:13:58.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[21Apr2025 22:14:15.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 22:14:15.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[21Apr2025 22:15:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 22:15:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INFO<--[HERE]
+[21Apr2025 22:22:49.155] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: GAEL234567 (/127.172.61.124:44471) lost connection: Disconnected
