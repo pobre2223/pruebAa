@@ -1,0 +1,92 @@
+[21Apr2025 21:52:34.078] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[21Apr2025 21:52:34.080] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[21Apr2025 21:52:34.081] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[21Apr2025 21:52:34.146] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/pruebAa/servidor_minecraft/config/fml.toml is not correct. Correcting
+[21Apr2025 21:52:34.148] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[21Apr2025 21:52:34.149] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[21Apr2025 21:52:34.149] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[21Apr2025 21:52:34.150] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[21Apr2025 21:52:34.162] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[21Apr2025 21:52:34.278] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/pruebAa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[21Apr2025 21:52:34.509] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[21Apr2025 21:52:35.350] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[21Apr2025 21:52:35.675] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/pruebAa/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/pruebAa/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/pruebAa/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/pruebAa/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[21Apr2025 21:52:35.799] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/pruebAa/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/pruebAa/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/pruebAa/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/pruebAa/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[21Apr2025 21:52:41.065] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
+[21Apr2025 21:52:41.065] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
+[21Apr2025 21:52:41.069] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[21Apr2025 21:52:41.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Apr2025 21:52:42.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
+[21Apr2025 21:52:43.304] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21Apr2025 21:52:44.031] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[21Apr2025 21:52:44.790] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[21Apr2025 21:52:45.048] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[21Apr2025 21:52:45.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[21Apr2025 21:52:45.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Apr2025 21:52:45.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Apr2025 21:52:45.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Apr2025 21:52:45.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Apr2025 21:52:45.830] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Apr2025 21:52:45.876] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Apr2025 21:52:45.876] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Apr2025 21:52:45.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Apr2025 21:52:45.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Apr2025 21:52:45.900] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[21Apr2025 21:52:45.901] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[21Apr2025 21:52:45.902] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[21Apr2025 21:52:45.902] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[21Apr2025 21:52:45.903] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[21Apr2025 21:52:45.903] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[21Apr2025 21:52:45.904] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[21Apr2025 21:52:45.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Apr2025 21:52:51.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Apr2025 21:52:51.787] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[21Apr2025 21:52:52.298] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[21Apr2025 21:52:52.753] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[21Apr2025 21:52:53.251] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[21Apr2025 21:52:53.756] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[21Apr2025 21:52:54.253] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[21Apr2025 21:52:54.758] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[21Apr2025 21:52:55.270] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[21Apr2025 21:52:55.779] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[21Apr2025 21:52:56.257] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[21Apr2025 21:52:56.442] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4692 ms
+[21Apr2025 21:52:56.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.550s)! For help, type "help"
+[21Apr2025 21:52:56.454] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Apr2025 21:54:28.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GAEL234567[/127.172.61.124:58679] logged in with entity id 31 at (2.5, 65.0, 7.5)
+[21Apr2025 21:54:28.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAEL234567 joined the game
+[21Apr2025 21:54:46.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 21:54:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hel<--[HERE]
+[21Apr2025 21:54:54.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 21:54:54.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hel<--[HERE]
+[21Apr2025 21:54:58.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 21:54:58.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hep<--[HERE]
+[21Apr2025 21:55:17.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 21:55:17.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inf<--[HERE]
+[21Apr2025 21:55:25.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 21:55:25.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: info<--[HERE]
+[21Apr2025 21:55:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 21:55:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: info<--[HERE]
+[21Apr2025 21:56:19.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GAEL234567 a server operator
+[21Apr2025 21:56:27.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Set own game mode to Creative Mode]
+[21Apr2025 21:56:49.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Teleported GAEL234567 to 10000.500000, 50.000000, 20000.500000]
+[21Apr2025 21:57:02.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Set own game mode to Spectator Mode]
+[21Apr2025 21:57:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Set own game mode to Creative Mode]
+[21Apr2025 21:57:20.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 2200 block(s)]
+[21Apr2025 21:57:32.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[21Apr2025 21:58:05.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 1134 block(s)]
+[21Apr2025 21:58:11.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 7641 block(s)]
+[21Apr2025 21:58:14.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 602 block(s)]
+[21Apr2025 21:58:25.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 2168 block(s)]
+[21Apr2025 21:58:28.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 1341 block(s)]
+[21Apr2025 21:58:30.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 383 block(s)]
+[21Apr2025 21:58:31.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 138 block(s)]
+[21Apr2025 21:58:38.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 3822 block(s)]
+[21Apr2025 21:58:42.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Successfully filled 2190 block(s)]
+[21Apr2025 21:58:55.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAEL234567 was killed
+[21Apr2025 21:58:55.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Killed GAEL234567]
+[21Apr2025 21:59:02.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Set own game mode to Survival Mode]
+[21Apr2025 21:59:30.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Set own game mode to Creative Mode]
+[21Apr2025 22:00:01.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GAEL234567 moved too quickly! 15.148452758789062,6.963399122357373,-3.229151003062725
+[21Apr2025 22:00:29.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAEL234567 has made the advancement [Stone Age]
+[21Apr2025 22:02:20.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GAEL234567: Summoned new Giant]
